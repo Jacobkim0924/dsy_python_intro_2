@@ -1,0 +1,8 @@
+width = input('width: ')
+height = input('height: ')
+Width = int(width)//2
+print('Width:', Width)
+width = int(width)/2.0
+print('width', width)
+height = int(height)/2.0
+print('height', height)
